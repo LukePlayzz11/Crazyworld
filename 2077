@@ -1,4 +1,4 @@
 FflagEnableVehicles = false
 FflagRevertRobberyGradient = false
 FflagDisableUpdatelogs = false
-FflagDonutStoreFix
+FflagDonutStoreFix = false
