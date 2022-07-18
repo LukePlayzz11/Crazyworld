@@ -1,0 +1,8 @@
+NEW STRING ("Summer Safety")
+NEW STRING ("1 Wear Protective Suncream")
+NEW STRING ("2 Stay out of the sun as much as you can")
+NEW STRING ("3 Stay safe when in an open sea area")
+NEW STRING ("4 Remain calm  at all times Call 999/911 if an accident occurs.")
+NEW STRING ("5 Keep an eye on your local weather for warnings")
+NEW STRING ("#StayWeatherAware")
+FFlagEnableSummerAdvice
